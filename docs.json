@@ -17,7 +17,8 @@
             "group": "Empezando",
             "pages": [
               "index",
-              "smart-city",
+              "ciudad-inteligente",
+              "diagnostico-smart-city",
               "preguntas-y-respuestas"
             ]
           }
