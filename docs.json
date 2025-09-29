@@ -4,8 +4,8 @@
   "name": "moobä",
   "colors": {
     "primary": "#ff8a00",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "light": "#0754c6",
+    "dark": "#ff8a00"
   },
   "favicon": "/favicon.svg",
   "navigation": {
