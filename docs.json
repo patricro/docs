@@ -11,18 +11,10 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guías",
+        "tab": "Aprender",
         "groups": [
           {
             "group": "Empezando",
-            "pages": [
-              "index",
-              "quickstart",
-              "development"
-            ]
-          },       
-          {
-            "group": "moobä app",
             "pages": [
               "index",
               "quickstart",
