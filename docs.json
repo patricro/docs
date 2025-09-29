@@ -20,6 +20,14 @@
               "quickstart",
               "development"
             ]
+          },       
+          {
+            "group": "moobä app",
+            "pages": [
+              "index",
+              "quickstart",
+              "development"
+            ]
           }
         ]
       }
