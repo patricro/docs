@@ -27,7 +27,6 @@
             "group": "Preguntas y Respuestas",
             "icon": "circle-question",
             "pages": [
-              "preguntas-y-respuestas",
               "proposito-y-alcance-diagnostico"
             ]
               }
