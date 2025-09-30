@@ -22,14 +22,14 @@
             "pages": [
               "municipios-y-gobiernos",
               {
-            "group": "Preguntas y Respuestas",
-              "icon": "circle-question",
-              "pages": [
-                "proposito-y-alcance-diagnostico",
-                "roles-y-responsabilidades-del-gobierno-local",
-                "metodologia-y-metricas",
-                "aplicacion-estrategica"
-              ]
+              "group": "Preguntas y Respuestas",
+                "icon": "circle-question",
+                "pages": [
+                  "proposito-y-alcance-diagnostico",
+                  "roles-y-responsabilidades-del-gobierno-local",
+                  "metodologia-y-metricas",
+                  "aplicacion-estrategica"
+                ]
               }
              ]      
           }
@@ -56,12 +56,7 @@
     "options": [
      "copy",
      "view",
-     "chatgpt",
-     "claude",
-     "perplexity",
-     "mcp",
-     "cursor",
-     "vscode"
+     "chatgpt"
    ]
   },
   "footer": {
