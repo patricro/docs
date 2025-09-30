@@ -25,7 +25,7 @@
             "pages": [
               {
             "group": "Preguntas y Respuestas",
-            "icon": "pencil",
+            "icon": "circle-question",
             "pages": [
               "preguntas-y-respuestas",
               "proposito-y-alcance-diagnostico"
