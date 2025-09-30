@@ -9,7 +9,6 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-
          "groups": [
           {
             "group": "Empezando",
@@ -35,7 +34,6 @@
              ]      
           }
         ]
-
   },
   "logo": {
     "light": "/logo/light.svg",
