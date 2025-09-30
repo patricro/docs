@@ -21,9 +21,9 @@
             ]
           },
           {
-            "group": "Diagnóstico de Ciudad Inteligente",
+            "group": "Diagnóstico",
             "pages": [
-              "municipios-y-gobiernos",
+              "diagnostico-de-ciudad-inteligente",
               {
               "group": "Preguntas y Respuestas",
                 "icon": "circle-question",
