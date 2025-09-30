@@ -21,6 +21,13 @@
               "diagnostico-smart-city",
               "preguntas-y-respuestas"
             ]
+          },
+          {
+            "group": "Diagnóstico de Ciudad Inteligente",
+            "pages": [
+              "index",
+              "preguntas-y-respuestas"
+            ]
           }
         ]
       }
