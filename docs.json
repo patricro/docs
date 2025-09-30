@@ -9,10 +9,8 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "tabs": [
-      {
-        "tab": "Docs",
-        "groups": [
+
+         "groups": [
           {
             "group": "Empezando",
             "pages": [
@@ -23,25 +21,21 @@
           {
             "group": "Diagnóstico de Ciudad Inteligente",
             "pages": [
+              "Municipios-y Gobiernos",
               {
             "group": "Preguntas y Respuestas",
-            "icon": "circle-question",
-            "pages": [
-              "proposito-y-alcance-diagnostico",
-              "roles-y-responsabilidades-del-gobierno-local",
-              "metodologia-y-metricas",
-              "aplicacion-estrategica"
-            ]
+              "icon": "circle-question",
+              "pages": [
+                "proposito-y-alcance-diagnostico",
+                "roles-y-responsabilidades-del-gobierno-local",
+                "metodologia-y-metricas",
+                "aplicacion-estrategica"
+              ]
               }
-             
-            ]
+             ]      
           }
         ]
-      }
-    ],
-    "global": {
-      
-    }
+
   },
   "logo": {
     "light": "/logo/light.svg",
