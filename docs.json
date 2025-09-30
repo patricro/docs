@@ -23,7 +23,15 @@
           {
             "group": "Diagnóstico de Ciudad Inteligente",
             "pages": [
-              "preguntas-y-respuestas"
+              {
+            "group": "Preguntas y Respuestas",
+            "icon": "pencil",
+            "pages": [
+              "installation",
+              "editor"
+            ]
+              }
+             
             ]
           }
         ]
