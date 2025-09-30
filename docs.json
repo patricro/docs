@@ -27,8 +27,8 @@
             "group": "Preguntas y Respuestas",
             "icon": "pencil",
             "pages": [
-              "installation",
-              "editor"
+              "preguntas-y-respuestas",
+              "proposito-y-alcance-diagnostico"
             ]
               }
              
