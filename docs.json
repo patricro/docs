@@ -27,7 +27,9 @@
             "group": "Preguntas y Respuestas",
             "icon": "circle-question",
             "pages": [
-              "proposito-y-alcance-diagnostico"
+              "proposito-y-alcance-diagnostico",
+              "roles-y-responsabilidades-del-gobierno-local",
+              "metodologia-y-metricas"
             ]
               }
              
