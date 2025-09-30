@@ -27,6 +27,7 @@
               {
               "group": "Preguntas y Respuestas",
                 "icon": "circle-question",
+                "expanded": true,
                 "pages": [
                   "proposito-y-alcance-diagnostico",
                   "roles-y-responsabilidades-del-gobierno-local",
