@@ -9,6 +9,9 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
+    "languages": [
+        {
+         "language": "es",
          "groups": [
           {
             "group": "Empezando",
@@ -34,13 +37,12 @@
              ]      
           }
         ]
+        }
+    ]
   },
   "logo": {
     "light": "/logo/light.svg",
     "dark": "/logo/dark.svg"
-  },
-  "banner":{
-    "content": "🚀 Banner is live! [Learn more](mintlify.com)"
   },
   "navbar": {
     "links": [
