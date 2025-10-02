@@ -23,7 +23,13 @@
           {
             "group": "Diagnóstico",
             "pages": [
-              "diagnostico-de-ciudad-inteligente",
+              {
+              "group": "Diagnóstico de Ciudad Inteligente",   
+                "expanded": true,
+                "pages": [
+                  "diagnostico-de-ciudad-inteligente"
+                ]
+              },              
               {
               "group": "Preguntas y Respuestas",
                 "icon": "circle-question",
@@ -34,7 +40,7 @@
                   "metodologia-y-metricas",
                   "aplicacion-estrategica"
                 ]
-              }
+              }              
              ]      
           }
         ]
