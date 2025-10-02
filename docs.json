@@ -71,6 +71,9 @@
      "chatgpt"
    ]
   },
+  "search":{
+    "prompt": "buscar..."
+  },
   "footer": {
     "socials": {
       "website":"https://mooba.ar/",
